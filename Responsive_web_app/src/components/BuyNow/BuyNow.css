@@ -1,0 +1,71 @@
+.Buy {
+  background-color: #2b3e72;
+  height: 140vh;
+  width: 90%;
+  align-items: center;
+  position: relative;
+  margin: 200px auto -100px auto;
+  text-align: center;
+  padding: 2rem;
+}
+
+.buy1Parent {
+  position: absolute;
+  /* background-color: rgb(189, 255, 127); */
+  height: 120vh;
+  width: 70%;
+  margin-top: -30vh;
+  margin-left: 15%;
+  align-items: center;
+}
+
+.Buy1 {
+  background-color: rgb(240, 234, 234);
+  height: 60vh;
+  width: 49%;
+  float: left;
+  align-items: center;
+  padding: 20px 0 0 0;
+  border-radius: 10px;
+}
+
+.Buy2 {
+  background-color: rgb(240, 234, 234);
+  height: 60vh;
+  width: 49%;
+  float: left;
+  align-items: center;
+  padding: 20px 0 0 0;
+  border-radius: 10px;
+  margin-left: 2px;
+}
+
+.pForBuy2 {
+  padding: 72.5px 20px;
+  font-size: 20px;
+}
+
+.Buy3 {
+  /* background-color: rgb(89, 160, 22); */
+  height: 50vh;
+  width: 50%;
+  float: left;
+  text-align: left;
+  padding: 50px;
+}
+.Buy4 {
+  /* background-color: rgb(160, 22, 22); */
+  height: 50vh;
+  width: 50%;
+  float: left;
+  text-align: left;
+  padding: 50px;
+}
+.Buy5 {
+  /* background-color: rgb(199, 154, 154); */
+  height: 50vh;
+  width: 100%;
+  float: left;
+  align-items: center;
+  padding: 50px;
+}

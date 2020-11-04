@@ -1,0 +1,59 @@
+.Theme {
+  background-color: white;
+  height: 50vh;
+  width: 90%;
+  max-width: 1120px;
+  position: relative;
+  margin: 10rem auto;
+}
+
+.Theme1 {
+  background-color: white;
+  position: absolute;
+  float: left;
+  height: 40vh;
+  width: 50%;
+  /* padding-left: 10%; */
+}
+
+.Theme2 {
+  background-color: white;
+  float: right;
+  height: 40vh;
+  width: 50%;
+}
+.image {
+  height: 60vh;
+  width: 80%;
+  -ms-transform: rotate(30deg);
+  transform: rotate(15deg);
+}
+.Strong1 {
+  color: rgb(17, 156, 103);
+  font-size: large;
+}
+.h3tag {
+  color: black;
+}
+.fa-sync-alt {
+  color: blue;
+  font-size: 30px;
+}
+.fa-code {
+  color: blue;
+  font-size: 30px;
+}
+.Tab1 {
+  tab-size: 4;
+}
+.Theme4 {
+  padding: 0 200px;
+  width: 100%;
+  font-size: 30px;
+  align-items: center;
+  text-align: center;
+}
+
+.Ptag2 {
+  margin-left: 40px;
+}

@@ -1,0 +1,50 @@
+.Design {
+  background-color: white;
+  height: 50vh;
+  width: 90%;
+  max-width: 1120px;
+  position: relative;
+  margin: 10rem auto;
+}
+
+.Design1 {
+  background-color: white;
+  float: left;
+  height: 40vh;
+  width: 60%;
+  padding-left: 10%;
+  position: relative;
+}
+.ptag2 {
+  color: rgb(135, 135, 224);
+  font-style: inherit;
+}
+
+.Design2 {
+  background-color: white;
+  float: left;
+  height: 60vh;
+  width: 40%;
+  padding-left: 1px;
+  padding-right: 1;
+  padding-top: 300;
+  padding-bottom: 300;
+}
+
+.List {
+  position: absolute;
+  left: 2.5%;
+}
+.ptag3 {
+  color: rgb(136, 136, 197);
+  text-align: center;
+}
+.fa-toggle-on {
+  color: rgb(136, 136, 197);
+}
+
+.Design4 {
+  width: 100%;
+  font-size: 30px;
+  text-align: center;
+}

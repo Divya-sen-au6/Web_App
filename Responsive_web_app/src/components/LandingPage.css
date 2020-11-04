@@ -1,0 +1,87 @@
+.Landing-page {
+  height: 50vh;
+  width: 90%;
+  position: relative;
+  margin: 0 auto;
+}
+
+.hero-container {
+  /* background-color: burlywood; */
+  height: 50vh;
+  width: 50%;
+  float: left;
+  font-size: 20px;
+  margin-left: 100px;
+  position: absolute;
+  text-align: left;
+  top: 40%;
+}
+.hero-container2 {
+  float: right;
+  min-height: 50vh;
+  width: 50%;
+  position: relative;
+}
+
+.hero-btns {
+  width: 100%;
+  padding: 10px;
+  margin-left: -80px;
+}
+
+.btns {
+  height: 50px;
+
+  width: 160px;
+  background-color: rgb(9, 124, 170);
+  left: 0px;
+}
+
+.btn22 {
+  background: rgb(184, 215, 228);
+  color: blue;
+  margin-left: -40px;
+}
+.fas {
+  color: white;
+}
+
+.fa-arrow-right {
+  margin-left: 4px;
+}
+
+@media screen and (max-width: 960px) {
+  .hero-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .hero-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+
+  .hero-container > p {
+    font-size: 30px;
+  }
+
+  .btn-mobile {
+    display: block;
+    text-decoration: none;
+  }
+
+  .btn {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768 px) {
+  .hero-container {
+    align-items: center;
+    min-height: 50vh;
+    width: 50%;
+    position: relative;
+  }
+}
